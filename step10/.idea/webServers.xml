@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c6e9451a-ddaf-453e-bd7f-e38b547fcec8" name="webdev-step10" url="http://webdev.cse.msu.edu/~liyingfe/step10">
+        <fileTransfer host="arctic.cse.msu.edu" port="22" rootFolder="/user/liyingfe/classweb/step10" accessType="SFTP" password="dfe6dfdfdfc9dfc1df98df9adf9adf9adf8b" username="liyingfe">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
